@@ -167,4 +167,3 @@ xlwt==1.3.0
 xmltodict==0.12.0
 zict==2.0.0
 zope.event==4.5.0
-zope.interface @ file:///opt/concourse/worker/volumes/live/de428e3b-00ba-4161-442e-b9e5d25e4219/volume/zope.interface_1602002489816/work
